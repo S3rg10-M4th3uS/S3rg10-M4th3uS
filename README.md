@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6272A4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/s%C3%A9rgio-matheus-51b03b263/"><img src="https://img.shields.io/badge/LinkedIn-6272A4?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sergiomatheuss09@gmail.com"><img src="https://img.shields.io/badge/Email-BD93F9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
 </p>
 
 ## 👨‍💻 About me
