@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=S%C3%A9rgio%20Matheus&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20Backend%20and%20Cloud&amp;descAlignY=56&amp;descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=S%C3%A9rgio%20Matheus&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20Fullstack%20and%20Cloud&amp;descAlignY=56&amp;descSize=18"
     alt="Sérgio Matheus — Software Developer"
   >
 </p>
