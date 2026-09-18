@@ -55,46 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux">
 </p>
 
-## 🚀 Selected projects
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <h3>📖 Dict CLI</h3>
-    </td>
-    <td width="33%" align="center">
-      <h3>💰 FinFamily</h3>
-    </td>
-    <td width="33%" align="center">
-      <h3>✈️ F-Carranca Telemetry</h3>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" valign="top">
-      Command-line dictionary developed in Rust, focusing on modular organization, error handling and maintainable code.
-    </td>
-    <td width="33%" valign="top">
-      Personal finance application developed with SwiftUI, Node-RED and IBM Cloudant, featuring transaction management and data visualization.
-    </td>
-    <td width="33%" valign="top">
-      Telemetry and electrical analysis system for an SAE Aerodesign aircraft using Python, Arduino Mega, Orange Pi and embedded sensors.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="33%" align="center">
-      <a href="LINK_DO_REPOSITORIO">View Repository</a>
-    </td>
-    <td width="33%" align="center">
-      <a href="LINK_DO_REPOSITORIO">View Repository</a>
-    </td>
-    <td width="33%" align="center">
-      <a href="LINK_DO_REPOSITORIO">View Repository</a>
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <p align="center">
